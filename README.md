@@ -1,6 +1,6 @@
 Reproduction for the https://github.com/sveltejs/kit/issues/13804
 
-If we remove `houdini` and `houdini-svelte` dependencies, the application builds successfully.
+If we remove `houdini` and `houdini-svelte` dependencies, the application builds successfully. Check the [houdini-removed](https://github.com/artemudovyk/sveltekit-2-21-1-build-fail-repro/tree/houdini-removed) branch.
 
 Terminal output:
 
