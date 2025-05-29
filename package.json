@@ -15,8 +15,6 @@
     "@sveltejs/vite-plugin-svelte": "^4.0.0",
     "amplify-adapter": "^0.2.0",
     "aos": "^2.3.4",
-    "houdini": "^1.5.5",
-    "houdini-svelte": "^2.1.14",
     "lucide-svelte": "^0.453.0",
     "svelte": "^5.33.0",
     "svelte-check": "^4.0.5",
